@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+  <record>
+    <category>Clip</category>
+    <title>Clip Title 1</title>
+    <course-name>age-progression-in-photoshop</course-name>
+    <author>
+      <id>kurt-jones</id>
+      <first-name>Kurt</first-name>
+      <last-name>Jones</last-name>
+      <display-name>Kurt Jones</display-name>
+    </author>
+    <module-name>module-name-1</module-name>
+    <clip-index>0</clip-index>
+    <duration>PT2M12.307S</duration>
+    <transcript-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</transcript-text>
+  </record>
+  <record>
+    <category>Clip</category>
+    <title>Clip Title 2</title>
+    <course-name>age-progression-in-photoshop</course-name>
+    <author>
+      <id>kurt-jones</id>
+      <first-name>Kurt</first-name>
+      <last-name>Jones</last-name>
+      <display-name>Kurt Jones</display-name>
+    </author>
+    <module-name>module-name-1</module-name>
+    <clip-index>1</clip-index>
+    <duration>PT2M12.307S</duration>
+    <transcript-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</transcript-text>
+  </record>
+  <record>
+    <category>Clip</category>
+    <title>Clip Title 3</title>
+    <course-name>age-progression-in-photoshop</course-name>
+    <author>
+      <id>john-doe</id>
+      <first-name>John</first-name>
+      <last-name>Doe</last-name>
+      <display-name>John Doe</display-name>
+    </author>
+    <module-name>module-name-2</module-name>
+    <clip-index>0</clip-index>
+    <duration>PT2M12.307S</duration>
+    <transcript-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</transcript-text>
+  </record>
+  <record>
+    <category>Clip</category>
+    <title>Clip Title 4</title>
+    <course-name>age-progression-in-photoshop</course-name>
+    <author>
+      <id>john-doe</id>
+      <first-name>John</first-name>
+      <last-name>Doe</last-name>
+      <display-name>John Doe</display-name>
+    </author>
+    <module-name>module-name-2</module-name>
+    <clip-index>1</clip-index>
+    <duration>PT2M12.307S</duration>
+    <transcript-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</transcript-text>
+  </record>
+</records>
