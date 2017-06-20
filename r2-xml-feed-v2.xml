@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<productfeed>
+	<feedtype>full</feedtype>
+	<generation-date>Thu Apr 20 18:40:00 IST 2017</generation-date>
+	<family-count>3</family-count>
+	<product-count>9</product-count>
+	<language>en</language>
+	<product-families>
+		<product-family>
+			<path>/etc/commerce/products/panduit/en/1109</path>
+			<familycode>1109</familycode>
+			<title>Cable Ties-BT4I-C0</title>
+			<description>Cable Tie, Metal Barb, 14.3"L (363mm), Intermediate, Weather Resistant, Black</description>
+			<creationDate>2017-03-16T00:00:00</creationDate>
+			<familydetailspage>
+					<path>/content/panduit/en/l1-page/l2-page/l3-page/1109.html</path>
+				    <l1>/content/panduit/en/l1-page</l1>
+				    <l1-title>L1 Page</l1-title>
+					<l2>/content/panduit/en/l1-page/l2-page</l2>
+				    <l2-title>L2 Page</l2-title>
+					<l3>/content/panduit/en/l1-page/l2-page/l3-page</l3>
+				    <l3-title>L3 Page</l3-title>
+			</familydetailspage>
+			<attributes>
+				<color attributeName="Color" attributeValue="Black"/>
+				<product-segment attributeName="Product Segment" attributeValue="IEI"/>
+				<item-type attributeName="Item Type" attributeValue="STANDARD ITEM"/>
+				<pricing-description attributeName="Pricing Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+				<short-description attributeName="Short Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+				<keywords attributeName="Keywords" attributeValue="Cable ties, cable tie"/>
+				<part-description attributeName="Part Description" attributeValue="Dome-Top barb ty cable tie, intermediate cross section, 14.3&quot; (363mm) length, weather resistant nylon 6.6, black, standard package."/>
+				<short-desc---no-special-characters attributeName="Short Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate Cross Section, Material Weather Resistant Nylon 6.6, Color Black, Style Locking, Minimum Loop Tensile Strength 40 Pounds, Width 0.141 Inch, Maximum Bundle Diameter 4.00 Inches, Minimum Bundle Diameter 0.03 Inch, Plenum Rating - No, Flammability Rating V-2"/>
+				<long-desc---no-special-characters attributeName="Long Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate, Black. Weather Resistant for greater resistance to damage caused by ultraviolet light. Indoor or outdoor use. Dome-top head features unique patented design with round, smooth edges. Stainless steel locking barb provides consistent performance, reliability and infinite adjustability through entire bundle range. High strength and low thread force. Curved tip is easy to pick up from flat surfaces and allows faster initial threading."/>
+				<short-description-40 attributeName="Short Description 40" attributeValue="CTie,MBarb,14.3&quot;L,Intm,WR,BL,PK100"/>
+				<product-type attributeName="Product Type" attributeValue="Cable Ties"/>
+				<product-group-assignment attributeName="Product Group Assignment" attributeValue="Cable Ties"/>
+				<marketing_regions>
+					<name>JPN,LA,USA,AP,AUS,AUS,CAN,EMEA</name>
+				</marketing_regions>
+			</attributes>
+			<assets>
+				<asset>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/images/CBTHEADWR-o.jpg</fileReference>
+					<directory>ProductImages</directory>
+					<id>bt4i-c0-i-98687564-0</id>
+					<url>www.panduit.com/heiler/ProductImages/CBTHEADWR-o.jpg</url>
+					<category>Part Image</category>
+					<description/>
+					<keywords/>
+					<actionFlag>C</actionFlag>
+				</asset>
+			</assets>
+			<medias>
+				<media>
+					<title>BT-0037-Sheet2</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/C-CTBT1-5I-BT-0037-2--ENG.pdf</fileReference>
+					<directory>PartDrawings</directory>
+					<id>bt4i-c0-m-98220944-0</id>
+					<url>www.panduit.com/heiler/PartDrawings/C-CTBT1-5I-BT-0037-2--ENG.pdf</url>
+					<_abstract>BT-0037-Sheet2</_abstract>
+					<doctype>Part Drawings</doctype>
+					<actionFlag>C</actionFlag>
+					<family-code>{family-code}</family-code>
+				</media>
+				<media>
+					<title>DOME-TOP Barb Ty Cable Ties SA-CTCB55</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</fileReference>
+					<directory>ProductBulletins</directory>
+					<id>bt4i-c0-m-101165246-0</id>
+					<url>www.panduit.com/heiler/ProductBulletins/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</url>
+					<_abstract>DOME-TOP Barb Ty Cable Ties SA-CTCB55</_abstract>
+					<doctype>Product Bulletins</doctype>
+					<actionFlag>C</actionFlag>
+				</media>
+				<media>
+					<title>Cable Tie Selection Guide</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</fileReference>
+					<directory>SelectionGuides</directory>
+					<id>bt4i-c0-m-101322527-0</id>
+					<url>www.panduit.com/heiler/SelectionGuides/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</url>
+					<_abstract>Cable Tie Selection Guide</_abstract>
+					<doctype>Selection Guides</doctype>
+					<actionFlag>C</actionFlag>
+				</media>
+				<media>
+					<title>BT1M-C0 Product Page</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/BT1M-CO Product Page.pdf</fileReference>
+					<directory>CatalogCutSheets</directory>
+					<id>bt4i-c0-m-7800-0</id>
+					<url>www.panduit.com/heiler/CatalogCutSheets/BT1M-CO Product Page.pdf</url>
+					<_abstract>BT1M-C0 Product Page</_abstract>
+					<doctype>Catalog Cut Sheets</doctype>
+					<actionFlag>C</actionFlag>
+				</media>
+			</medias>
+			<products>
+				<product commerceType="product">
+					<path>/etc/commerce/products/panduit/en/1109/b/bt/bt4/bt4i/bt4ic0</path>
+					<sku>BT4I-C0</sku>
+					<title>Cable Ties-BT4I-C0</title>
+					<description>Cable Tie, Metal Barb, 14.3"L (363mm), Intermediate, Weather Resistant, Black</description>
+					<marginRank>2296</marginRank>
+					<revenueRank>3527</revenueRank>
+					<searchable>true</searchable>
+					<status>MATURE</status>
+					<creationDate>2017-03-16T00:00:00</creationDate>
+					<detailspage>
+						<path>/content/panduit/en/l1-page/l2-page/l3-page/1109/bt4ic0.html</path>
+						<l1>/content/panduit/en/l1-page</l1>
+						<l1-title>L1 Page</l1-title>
+						<l2>/content/panduit/en/l1-page/l2-page</l2>
+						<l2-title>L2 Page</l2-title>
+						<l3>/content/panduit/en/l1-page/l2-page/l3-page</l3>
+						<l3-title>L3 Page</l3-title>
+						<l4>/content/panduit/en/l1-page/l2-page/1109</l4>
+						<l4-title>Family Page</l4-title>
+					</detailspage>
+					
+					<attributes>
+						<brand-name attributeName="Brand Name" attributeValue="Panduit"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Dome-Top"/>
+						<color attributeName="Color" attributeValue="Black"/>
+						<product-segment attributeName="Product Segment" attributeValue="IEI"/>
+						<item-type attributeName="Item Type" attributeValue="STANDARD ITEM"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Dome-Top"/>
+						<product-category attributeName="Product Category" attributeValue="CABLE TIES"/>
+						<pricing-description attributeName="Pricing Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+						<short-description attributeName="Short Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+						<sell-pack-packaging-description attributeName="Sell Pack Packaging Description" attributeValue="BAG"/>
+						<ship-pack-packaging-description attributeName="Ship Pack Packaging Description" attributeValue="BAG"/>
+						<master-pack-packaging-description attributeName="Master Pack Packaging Description" attributeValue="CTN"/>
+						<country-of-origin-description attributeName="Country of Origin Description" attributeValue="Costa Rica"/>
+						<keywords attributeName="Keywords" attributeValue="Cable ties, cable tie"/>
+						<part-description attributeName="Part Description" attributeValue="Dome-Top barb ty cable tie, intermediate cross section, 14.3&quot; (363mm) length, weather resistant nylon 6.6, black, standard package."/>
+						<short-desc---no-special-characters attributeName="Short Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate Cross Section, Material Weather Resistant Nylon 6.6, Color Black, Style Locking, Minimum Loop Tensile Strength 40 Pounds, Width 0.141 Inch, Maximum Bundle Diameter 4.00 Inches, Minimum Bundle Diameter 0.03 Inch, Plenum Rating - No, Flammability Rating V-2"/>
+						<long-desc---no-special-characters attributeName="Long Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate, Black. Weather Resistant for greater resistance to damage caused by ultraviolet light. Indoor or outdoor use. Dome-top head features unique patented design with round, smooth edges. Stainless steel locking barb provides consistent performance, reliability and infinite adjustability through entire bundle range. High strength and low thread force. Curved tip is easy to pick up from flat surfaces and allows faster initial threading."/>
+						<short-description-40 attributeName="Short Description 40" attributeValue="CTie,MBarb,14.3&quot;L,Intm,WR,BL,PK100"/>
+						<unspsc-carton-description attributeName="UNSPSC Carton Description" attributeValue="CARTON"/>
+						<unspsc-package-description attributeName="UNSPSC Package Description" attributeValue="PACKAGE"/>
+						<price-class-code-parent attributeName="Price Class Code Parent" attributeValue="01"/>
+						<product-owner attributeName="Product Owner" attributeValue="ELECTRICAL"/>
+						<product-type attributeName="Product Type" attributeValue="Cable Ties"/>
+						<product-group-assignment attributeName="Product Group Assignment" attributeValue="Cable Ties"/>
+						<marketing_regions>
+							<name>JPN,LA,USA,AP,AUS,AUS,CAN,EMEA</name>
+						</marketing_regions>
+					</attributes>
+					<distributors>
+						<distributor>
+							<link>https://www.anixter.com/en_us/manufacturers/p/panduit/quick-quote.html?quick_quote_comment=I%27m%20interested%20in%20getting%20a%20quote%20on%20Panduit%20Part%20Number%20BT4I-C0</link>
+							<name>ANIXTER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.digikey.com/product-search/en?keywords=BT4I-C0</link>
+							<name>DIGIKEY</name>
+						</distributor>
+						<distributor>
+							<link>https://www.fastenal.com/products?term=BT4I-C0&amp;searchMode=</link>
+							<name>FASTENAL</name>
+						</distributor>
+						<distributor>
+							<link>http://www.graybar.com/store/SearchDisplay?categoryId=&amp;storeId=11751&amp;catalogId=10551&amp;langId=-1&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=&amp;beginIndex=0&amp;pageSize=15&amp;searchType=1000&amp;orderBy=&amp;searchTerm=panduit</link>
+							<name>GRAYBAR</name>
+						</distributor>
+						<distributor>
+							<link>https://estore.heilind.com/search.asp?p=BT4I-C0</link>
+							<name>HEILIND</name>
+						</distributor>
+						<distributor>
+							<link>https://www.rexelusa.com/freeTextSearch.action?freeText=BT4I-C0</link>
+							<name>REXELUSA</name>
+						</distributor>
+						<distributor>
+							<link>https://www.sager.com/search/?Keywords=BT4I-C0</link>
+							<name>SAGER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.sonepar.com</link>
+							<name>SONEPAR</name>
+						</distributor>
+						<distributor>
+							<link>https://buy.wesco.com/search?searchterm=BT4I-C0</link>
+							<name>WESCO</name>
+						</distributor>
+					</distributors>
+					<assets>
+						<asset0>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/images/CBTHEADWR-o.jpg</fileReference>
+							<directory>ProductImages</directory>
+							<id>bt4i-c0-i-98687564-0</id>
+							<url>www.panduit.com/heiler/ProductImages/CBTHEADWR-o.jpg</url>
+							<category>Part Image</category>
+							<description/>
+							<keywords/>
+							<actionFlag>C</actionFlag>
+						</asset0>
+					</assets>
+					<medias>
+						<media>
+							<title>BT-0037-Sheet2</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/C-CTBT1-5I-BT-0037-2--ENG.pdf</fileReference>
+							<directory>PartDrawings</directory>
+							<id>bt4i-c0-m-98220944-0</id>
+							<url>www.panduit.com/heiler/PartDrawings/C-CTBT1-5I-BT-0037-2--ENG.pdf</url>
+							<_abstract>BT-0037-Sheet2</_abstract>
+							<doctype>Part Drawings</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+						</media>
+						<media1>
+							<title>DOME-TOP Barb Ty Cable Ties SA-CTCB55</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</fileReference>
+							<directory>ProductBulletins</directory>
+							<id>bt4i-c0-m-101165246-0</id>
+							<url>www.panduit.com/heiler/ProductBulletins/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</url>
+							<_abstract>DOME-TOP Barb Ty Cable Ties SA-CTCB55</_abstract>
+							<doctype>Product Bulletins</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+						</media1>
+						<media2>
+							<title>Cable Tie Selection Guide</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</fileReference>
+							<directory>SelectionGuides</directory>
+							<id>bt4i-c0-m-101322527-0</id>
+							<url>www.panduit.com/heiler/SelectionGuides/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</url>
+							<_abstract>Cable Tie Selection Guide</_abstract>
+							<doctype>Selection Guides</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+						</media2>
+						<media3>
+							<title>BT1M-C0 Product Page</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/BT1M-CO Product Page.pdf</fileReference>
+							<directory>CatalogCutSheets</directory>
+							<id>bt4i-c0-m-7800-0</id>
+							<url>www.panduit.com/heiler/CatalogCutSheets/BT1M-CO Product Page.pdf</url>
+							<_abstract>BT1M-C0 Product Page</_abstract>
+							<doctype>Catalog Cut Sheets</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+							
+						</media3>
+						
+					</medias>
+					<xref>
+						<xref0>
+							<compName>WAYTEK</compName>
+							<compPart>21795</compPart>
+							<actionFlag>R</actionFlag>
+						</xref0>
+					</xref>
+				</product>
+				<product commerceType="product">
+					<path>/etc/commerce/products/panduit/en/d/dp/dp1/dp12/dp125e88tgy</path>
+					<sku>DP125E88TGY</sku>
+					<title>Punchdown Patch Panel-DP125E88TGY</title>
+					<description>Punchdown Patch Panel, Cat 5e, Flat, 12 Port</description>
+					<marginRank>999</marginRank>
+					<revenueRank>999</revenueRank>
+					<creationDate>2017-02-23T00:00:00</creationDate>
+					<detailspage>
+						<path>/content/panduit/en/l1-page/l2-page/l3-page/1109/dp125e88tgy.html</path>
+						<l1>/content/panduit/en/l1-page</l1>
+						<l1-title>L1 Page</l1-title>
+						<l2>/content/panduit/en/l1-page/l2-page</l2>
+						<l2-title>L2 Page</l2-title>
+						<l3>/content/panduit/en/l1-page/l2-page/l3-page</l3>
+						<l3-title>L3 Page</l3-title>
+						<l4>/content/panduit/en/l1-page/l2-page/1109</l4>
+						<l4-title>Family Page</l4-title>
+					</detailspage>
+					<attributes/>
+					<distributors>
+						<distributor>
+							<link>https://www.anixter.com/en_us/manufacturers/p/panduit/quick-quote.html?quick_quote_comment=I%27m%20interested%20in%20getting%20a%20quote%20on%20Panduit%20Part%20Number%20DP125E88TGY</link>
+							<name>ANIXTER</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>http://www.digikey.com/product-search/en?keywords=DP125E88TGY</link>
+							<name>DIGIKEY</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://www.fastenal.com/products?term=DP125E88TGY&amp;searchMode=</link>
+							<name>FASTENAL</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>http://www.graybar.com/store/SearchDisplay?categoryId=&amp;storeId=11751&amp;catalogId=10551&amp;langId=-1&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=&amp;beginIndex=0&amp;pageSize=15&amp;searchType=1000&amp;orderBy=&amp;searchTerm=panduit</link>
+							<name>GRAYBAR</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://estore.heilind.com/search.asp?p=DP125E88TGY</link>
+							<name>HEILIND</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://www.rexelusa.com/freeTextSearch.action?freeText=DP125E88TGY</link>
+							<name>REXELUSA</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://www.sager.com/search/?Keywords=DP125E88TGY</link>
+							<name>SAGER</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>http://www.sonepar.com</link>
+							<name>SONEPAR</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://buy.wesco.com/search?searchterm=DP125E88TGY</link>
+							<name>WESCO</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+					</distributors>
+					<assets>
+						<asset>
+							<fileReference>/content/dam/panduit/en/d/dp/dp1/dp12/dp125e88tgy/assets/asset/heiler/ProductImages/NDP125E8.jpg</fileReference>
+							<directory>ProductImages</directory>
+							<id>dp125e88tgy.i.98838988.0</id>
+							<url>www.panduit.com/heiler/ProductImages/NDP125E8.jpg</url>
+							<category>Part Image</category>
+							<description/>
+							<keywords/>
+							<actionFlag>R</actionFlag>
+						</asset>
+					</assets>
+					<medias>
+						<media>
+							<title>DP5e 12 Port Patch Panel - 02479-325</title>
+							<language>US English</language>
+							<directory>PartDrawings</directory>
+							<id>dp125e88tgy.m.16201.0</id>
+							<url>www.panduit.com/heiler/PartDrawings/DP125E88TGY.pdf</url>
+							<_abstract>DP5e 12 Port Patch Panel - 02479-325</_abstract>
+							<doctype>Part Drawings</doctype>
+							<actionFlag>R</actionFlag>
+						</media>
+						<media>
+							<title>DPA245E88TGY Product Page</title>
+							<language>US English</language>
+							<directory>CatalogCutSheets</directory>
+							<id>dp125e88tgy.m.15860.0</id>
+							<url>www.panduit.com/heiler/CatalogCutSheets/DPA245E88TGY Product Page.pdf</url>
+							<_abstract>DPA245E88TGY Product Page</_abstract>
+							<doctype>Catalog Cut Sheets</doctype>
+							<actionFlag>R</actionFlag>
+						</media>
+						<media>
+							<title>DP5e 12 Port Patch Panel - 02479-325</title>
+							<language>US English</language>
+							<directory>PartDrawings</directory>
+							<id>dp125e88tgy.m.16186.0</id>
+							<url>www.panduit.com/heiler/PartDrawings/DP125E88TGY.dwg</url>
+							<_abstract>DP5e 12 Port Patch Panel - 02479-325</_abstract>
+							<doctype>Part Drawings</doctype>
+							<actionFlag>R</actionFlag>
+						</media>
+						<media>
+							<title>DP5e 12 Port Patch Panel - 02479-325</title>
+							<language>US English</language>
+							<directory>PartDrawings</directory>
+							<id>dp125e88tgy.m.16193.0</id>
+							<url>www.panduit.com/heiler/PartDrawings/DP125E88TGY.dxf</url>
+							<_abstract>DP5e 12 Port Patch Panel - 02479-325</_abstract>
+							<doctype>Part Drawings</doctype>
+							<actionFlag>R</actionFlag>
+						</media>
+						<media>
+							<title>Spec sheet for DP5e Punchdown Patch Panels</title>
+							<language>US English</language>
+							<directory>SpecificationSheets</directory>
+							<id>dp125e88tgy.m.26087563.0</id>
+							<url>www.panduit.com/heiler/SpecificationSheets/D-COSP228--WW-ENG-dp5epatchpanel-WEB.pdf</url>
+							<_abstract>Spec sheet for DP5e Punchdown Patch Panels</_abstract>
+							<doctype>Specification Sheets</doctype>
+							<actionFlag>R</actionFlag>
+						</media>
+						<media>
+							<title>DP6 PLUS and DP5e 12-Port Patch Panels: PN405C</title>
+							<language>US English</language>
+							<directory>InstallInstructions</directory>
+							<id>dp125e88tgy.m.98222388.0</id>
+							<url>www.panduit.com/heiler/InstallInstructions/N-COPN--405--RevC--ENG.pdf</url>
+							<_abstract>DP6 PLUS and DP5e 12-Port Patch Panels: PN405C</_abstract>
+							<doctype>Installation Documents</doctype>
+							<actionFlag>R</actionFlag>
+						</media>
+						<media>
+							<title>Punchdown Patch Panels: PN379F-ENG</title>
+							<language>US English</language>
+							<directory>InstallInstructions</directory>
+							<id>dp125e88tgy.m.98221545.0</id>
+							<url>www.panduit.com/heiler/InstallInstructions/N-COPN--379--RevF--ENG.pdf</url>
+							<_abstract>Punchdown Patch Panels: PN379F-ENG</_abstract>
+							<doctype>Installation Documents</doctype>
+							<actionFlag>R</actionFlag>
+						</media>
+					</medias>
+					<xref>
+						<xref0>
+							<compName>LEVITON</compName>
+							<compPart>5G596-U89</compPart>
+							<actionFlag>C</actionFlag>
+						</xref0>
+					</xref>
+				</product>
+				<product commerceType="product">
+					<path>/etc/commerce/products/panduit/en/b/bl/blk/blkp/blkpsb20ap12</path>
+					<sku>BLKPSB2/0-AP-12</sku>
+					<title>Multi-Tap Connectors, Alternate Port-BLKPSB2/0-AP-12</title>
+					<description>Multi Tap Connector, Offset, Black Insulation, 2 Port, 2/0-#14 AWG STR, #10-#14 AWG SOL</description>
+					<marginRank>21862</marginRank>
+					<revenueRank>16087</revenueRank>
+					<searchable>true</searchable>
+					<status>GROWTH</status>
+					<creationDate>2017-03-16T00:00:00</creationDate>			
+					<detailspage>
+						<path>/content/panduit/en/QA/raham/l3-page/1109/blkpsb20ap12.html</path>
+						<l1>/content/panduit/en/l1-page</l1>
+						<l1-title>L1 Page</l1-title>
+						<l2>/content/panduit/en/l1-page/l2-page</l2>
+						<l2-title>L2 Page</l2-title>
+						<l3>/content/panduit/en/l1-page/l2-page/l3-page</l3>
+						<l3-title>L3 Page</l3-title>
+						<l4>/content/panduit/en/l1-page/l2-page/1109</l4>
+						<l4-title>Family Page</l4-title>
+					</detailspage>
+					
+					<attributes>
+						<brand-name attributeName="Brand Name" attributeValue="Panduit"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Type BLKPSB"/>
+						<product-segment attributeName="Product Segment" attributeValue="ELECTRICAL"/>
+						<item-type attributeName="Item Type" attributeValue="STANDARD ITEM"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Type BLKPSB"/>
+						<pricing-description attributeName="Pricing Description" attributeValue="Multi Tap Connector, Offset, Black Insulation, 2 Port, 2/0-#14 AWG STR, #10-#14 AWG SOL"/>
+						<short-description attributeName="Short Description" attributeValue="Multi Tap Connector, Offset, Black Insulation, 2 Port, 2/0-#14 AWG STR, #10-#14 AWG SOL"/>
+						<sell-pack-packaging-description attributeName="Sell Pack Packaging Description" attributeValue="BOX"/>
+						<ship-pack-packaging-description attributeName="Ship Pack Packaging Description" attributeValue="BOX"/>
+						<master-pack-packaging-description attributeName="Master Pack Packaging Description" attributeValue="BOX"/>
+						<country-of-origin-description attributeName="Country of Origin Description" attributeValue="Mexico"/>
+						<part-description attributeName="Part Description" attributeValue="Multi Tap Connector, Alternate 2 port, Black Insulation, 2/0-#14 AWG STR, #10-#14 AWG SOL"/>
+						<short-description-40 attributeName="Short Description 40" attributeValue="Multi-Tap,OS,2P,2/0-14AWG,10-14AWG,PK12"/>
+						<unspsc-package-description attributeName="UNSPSC Package Description" attributeValue="PACKAGE"/>
+						<price-class-code-parent attributeName="Price Class Code Parent" attributeValue="01"/>
+						<product-type attributeName="Product Type" attributeValue="Multi-Tap Connectors, Alternate Port"/>
+						<product-group-assignment attributeName="Product Group Assignment" attributeValue="Power Connectors"/>
+					</attributes>
+					<distributors>
+						<distributor>
+							<link>https://www.anixter.com/en_us/manufacturers/p/panduit/quick-quote.html?quick_quote_comment=I%27m%20interested%20in%20getting%20a%20quote%20on%20Panduit%20Part%20Number%20BLKPSB2/0-AP-12</link>
+							<name>ANIXTER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.digikey.com/product-search/en?keywords=BLKPSB2/0-AP-12</link>
+							<name>DIGIKEY</name>
+						</distributor>
+						<distributor>
+							<link>https://www.fastenal.com/products?term=BLKPSB2/0-AP-12&amp;searchMode=</link>
+							<name>FASTENAL</name>
+						</distributor>
+						<distributor>
+							<link>http://www.graybar.com/store/SearchDisplay?categoryId=&amp;storeId=11751&amp;catalogId=10551&amp;langId=-1&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=&amp;beginIndex=0&amp;pageSize=15&amp;searchType=1000&amp;orderBy=&amp;searchTerm=panduit</link>
+							<name>GRAYBAR</name>
+						</distributor>
+						<distributor>
+							<link>https://estore.heilind.com/search.asp?p=BLKPSB2/0-AP-12</link>
+							<name>HEILIND</name>
+						</distributor>
+						<distributor>
+							<link>https://www.rexelusa.com/freeTextSearch.action?freeText=BLKPSB2/0-AP-12</link>
+							<name>REXELUSA</name>
+						</distributor>
+						<distributor>
+							<link>https://www.sager.com/search/?Keywords=BLKPSB2/0-AP-12</link>
+							<name>SAGER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.sonepar.com</link>
+							<name>SONEPAR</name>
+						</distributor>
+						<distributor>
+							<link>https://buy.wesco.com/search?searchterm=BLKPSB2/0-AP-12</link>
+							<name>WESCO</name>
+						</distributor>
+					</distributors>
+					<assets>
+						<asset0>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bl/blk/blkp/blkpsb20ap12/images/G-PCBLK2Port--IND1-O-MED-ENG.jpg</fileReference>
+							<directory>ProductImages</directory>
+							<id>blkpsb2/0-ap-12-i-101099819-0</id>
+							<url>www.panduit.com/heiler/ProductImages/G-PCBLK2Port--IND1-O-MED-ENG.jpg</url>
+							<category>Part Image</category>
+							<description/>
+							<keywords/>
+							<actionFlag>C</actionFlag>
+						</asset0>
+					</assets>
+					<media>
+						<media0>
+							<title>Safety Data Sheet - T-MSDS-005-PC</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bl/blk/blkp/blkpsb20ap12/media/joint-compound-pcsb-pisr-pcsbmt--blkpsb-msds#0.pdf</fileReference>
+							<directory>MSDS</directory>
+							<id>blkpsb2/0-ap-12-m-101039287-0</id>
+							<url>www.panduit.com/heiler/MSDS/joint-compound-pcsb-pisr-pcsbmt--blkpsb-msds#0.pdf</url>
+							<_abstract>Safety Data Sheet - T-MSDS-005-PC</_abstract>
+							<doctype>MSDS</doctype>
+							<actionFlag>C</actionFlag>
+						</media0>
+						<media1>
+							<title>MULTI-TAP BLACK INSULATED CONNECTOR, OFFSET BLKPSB2/0-AP SERIES</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bl/blk/blkp/blkpsb20ap12/media/C-PCBLKPSB20-AP-12--ENG.pdf</fileReference>
+							<directory>PartDrawings</directory>
+							<id>blkpsb2/0-ap-12-m-101097353-0</id>
+							<url>www.panduit.com/heiler/PartDrawings/C-PCBLKPSB20-AP-12--ENG.pdf</url>
+							<_abstract>MULTI-TAP BLACK INSULATED CONNECTOR, OFFSET BLKPSB2/0-AP SERIES</_abstract>
+							<doctype>Part Drawings</doctype>
+							<actionFlag>C</actionFlag>
+						</media1>
+					</media>
+					<xref/>
+				</product>
+				<product commerceType="product">
+					<path>/etc/commerce/products/panduit/en/b/bt/bt1/bt15/bt150</path>
+					<sku>BT150</sku>
+					<title>Cable Ties-BT150</title>
+					<description>Cable Tie, Japan BT1.5I Equivalent, Natural, 155mm, Intermediate, Natural</description>
+					<marginRank>35065</marginRank>
+					<revenueRank>35236</revenueRank>
+					<searchable>true</searchable>
+					<status>USE UP</status>
+					<creationDate>2017-03-16T00:00:00</creationDate>
+					<detailspage>
+						<path>/content/panduit/en/l1-page/l2-page/l3-page/1109/bt150.html</path>
+						<l1>/content/panduit/en/l1-page</l1>
+						<l1-title>L1 Page</l1-title>
+						<l2>/content/panduit/en/l1-page/l2-page</l2>
+						<l2-title>L2 Page</l2-title>
+						<l3>/content/panduit/en/l1-page/l2-page/l3-page</l3>
+						<l3-title>L3 Page</l3-title>
+						<l4>/content/panduit/en/l1-page/l2-page/1109</l4>
+						<l4-title>Family Page</l4-title>
+					</detailspage>
+					
+					<attributes>
+						<brand-name attributeName="Brand Name" attributeValue="Panduit"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Dome-Top"/>
+						<color attributeName="Color" attributeValue="Natural"/>
+						<product-segment attributeName="Product Segment" attributeValue="ELECTRICAL"/>
+						<item-type attributeName="Item Type" attributeValue="STANDARD ITEM"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Dome-Top"/>
+						<product-category attributeName="Product Category" attributeValue="CABLE TIES"/>
+						<pricing-description attributeName="Pricing Description" attributeValue="Cable Tie, Japan BT1.5I Equivalent, Natural, 155mm, Intermediate, Natural"/>
+						<short-description attributeName="Short Description" attributeValue="Cable Tie, Japan BT1.5I Equivalent, Natural, 155mm, Intermediate, Natural"/>
+						<sell-pack-packaging-description attributeName="Sell Pack Packaging Description" attributeValue="BAG"/>
+						<ship-pack-packaging-description attributeName="Ship Pack Packaging Description" attributeValue="BAG"/>
+						<master-pack-packaging-description attributeName="Master Pack Packaging Description" attributeValue="CTN"/>
+						<country-of-origin-description attributeName="Country of Origin Description" attributeValue="Costa Rica"/>
+						<keywords attributeName="Keywords" attributeValue="Cable ties, cable tie"/>
+						<part-description attributeName="Part Description" attributeValue="Dome-Top barb ty cable tie, intermediate cross section, 6.1&quot; (155mm) length, nylon 6.6, natural - Japan."/>
+						<short-desc---no-special-characters attributeName="Short Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 6.1 Inches (155 mm) Length, Intermediate Cross Section, Material Nylon 6.6, Color Natural, Style Locking, Minimum Loop Tensile Strength 40 Pounds, Width 0.141 Inch, Maximum Bundle Diameter 1.50 Inches, Minimum Bundle Diameter 0.03 Inch, Plenum Rating - Yes, for use in plenum or air handling spaces per NEC Sec. 300.22 (C) and (D), Flammability Rating V-2. For Japan."/>
+						<long-desc---no-special-characters attributeName="Long Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 6.1 Inches (155 mm) Length, Intermediate, Nylon, Natural. For indoor use. Dome-top head features unique patented design with round, smooth edges. Stainless steel locking barb provides consistent performance, reliability and infinite adjustability through entire bundle range. High strength and low thread force. Curved tip is easy to pick up from flat surfaces and allows faster initial threading. For Japan."/>
+						<unspsc-carton-description attributeName="UNSPSC Carton Description" attributeValue="CARTON"/>
+						<unspsc-package-description attributeName="UNSPSC Package Description" attributeValue="PACKAGE"/>
+						<price-class-code-parent attributeName="Price Class Code Parent" attributeValue="01"/>
+						<product-type attributeName="Product Type" attributeValue="Cable Ties"/>
+						<product-group-assignment attributeName="Product Group Assignment" attributeValue="Cable Ties"/>
+					</attributes>
+					<distributors>
+						<distributor>
+							<link>https://www.anixter.com/en_us/manufacturers/p/panduit/quick-quote.html?quick_quote_comment=I%27m%20interested%20in%20getting%20a%20quote%20on%20Panduit%20Part%20Number%20BT150</link>
+							<name>ANIXTER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.digikey.com/product-search/en?keywords=BT150</link>
+							<name>DIGIKEY</name>
+						</distributor>
+						<distributor>
+							<link>https://www.fastenal.com/products?term=BT150&amp;searchMode=</link>
+							<name>FASTENAL</name>
+						</distributor>
+						<distributor>
+							<link>http://www.graybar.com/store/SearchDisplay?categoryId=&amp;storeId=11751&amp;catalogId=10551&amp;langId=-1&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=&amp;beginIndex=0&amp;pageSize=15&amp;searchType=1000&amp;orderBy=&amp;searchTerm=panduit</link>
+							<name>GRAYBAR</name>
+						</distributor>
+						<distributor>
+							<link>https://estore.heilind.com/search.asp?p=BT150</link>
+							<name>HEILIND</name>
+						</distributor>
+						<distributor>
+							<link>https://www.rexelusa.com/freeTextSearch.action?freeText=BT150</link>
+							<name>REXELUSA</name>
+						</distributor>
+						<distributor>
+							<link>https://www.sager.com/search/?Keywords=BT150</link>
+							<name>SAGER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.sonepar.com</link>
+							<name>SONEPAR</name>
+						</distributor>
+						<distributor>
+							<link>https://buy.wesco.com/search?searchterm=BT150</link>
+							<name>WESCO</name>
+						</distributor>
+					</distributors>
+					<assets>
+						<asset0>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt1/bt15/bt150/images/CBTHEAD-o.jpg</fileReference>
+							<directory>ProductImages</directory>
+							<id>bt150-i-98803855-0</id>
+							<url>www.panduit.com/heiler/ProductImages/CBTHEAD-o.jpg</url>
+							<category>Part Image</category>
+							<description/>
+							<keywords/>
+							<actionFlag>C</actionFlag>
+						</asset0>
+					</assets>
+					<media/>
+					<xref/>
+				</product>
+				<product commerceType="product">
+					<path>/etc/commerce/products/panduit/en/d/d2/d2h/d2hw/d2hwh6</path>
+					<sku>D2HWH6</sku>
+					<title>Solid Divider Wall-D2HWH6</title>
+					<description>Solid Duct Divider Wall, PVC, 2"H X 6'</description>
+					<marginRank>999</marginRank>
+					<revenueRank>999</revenueRank>
+					<creationDate>2017-02-23T00:00:00</creationDate>
+					<detailspage>
+						<path>/content/panduit/en/l1-page/l2-page/l3-page/1109/d2hwh6.html</path>
+						<l1>/content/panduit/en/l1-page</l1>
+						<l1-title>L1 Page</l1-title>
+						<l2>/content/panduit/en/l1-page/l2-page</l2>
+						<l2-title>L2 Page</l2-title>
+						<l3>/content/panduit/en/l1-page/l2-page/l3-page</l3>
+						<l3-title>L3 Page</l3-title>
+						<l4>/content/panduit/en/l1-page/l2-page/1109</l4>
+						<l4-title>Family Page</l4-title>
+					</detailspage>
+					<attributes/>
+					<distributors>
+						<distributor>
+							<link>https://www.anixter.com/en_us/manufacturers/p/panduit/quick-quote.html?quick_quote_comment=I%27m%20interested%20in%20getting%20a%20quote%20on%20Panduit%20Part%20Number%20D2HWH6</link>
+							<name>ANIXTER</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>http://www.digikey.com/product-search/en?keywords=D2HWH6</link>
+							<name>DIGIKEY</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://www.fastenal.com/products?term=D2HWH6&amp;searchMode=</link>
+							<name>FASTENAL</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>http://www.graybar.com/store/SearchDisplay?categoryId=&amp;storeId=11751&amp;catalogId=10551&amp;langId=-1&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=&amp;beginIndex=0&amp;pageSize=15&amp;searchType=1000&amp;orderBy=&amp;searchTerm=panduit</link>
+							<name>GRAYBAR</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://estore.heilind.com/search.asp?p=D2HWH6</link>
+							<name>HEILIND</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://www.rexelusa.com/freeTextSearch.action?freeText=D2HWH6</link>
+							<name>REXELUSA</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://www.sager.com/search/?Keywords=D2HWH6</link>
+							<name>SAGER</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>http://www.sonepar.com</link>
+							<name>SONEPAR</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://buy.wesco.com/search?searchterm=D2HWH6</link>
+							<name>WESCO</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+					</distributors>
+					<assets>
+						<asset0>
+							<fileReference>/content/dam/panduit/en/d/d2/d2h/d2hw/d2hwh6/assets/asset/heiler/ProductImages/Ddvrwsolidwh-o.jpg</fileReference>
+							<directory>ProductImages</directory>
+							<id>d2hwh6.i.98831802.0</id>
+							<url>www.panduit.com/heiler/ProductImages/Ddvrwsolidwh-o.jpg</url>
+							<category>Part Image</category>
+							<description/>
+							<keywords/>
+							<actionFlag>R</actionFlag>
+						</asset0>
+					</assets>
+					<media>
+						<media0>
+							<title>Solid Duct Divider Wall - D2HWH6,D3HWH6,D4HWH6 part dwg</title>
+							<language>US English</language>
+							<directory>PartDrawings</directory>
+							<id>d2hwh6.m.65286015.0</id>
+							<url>www.panduit.com/heiler/PartDrawings/C-WDDW-34301-05-R4--ENG.pdf</url>
+							<_abstract>Solid Duct Divider Wall - D2HWH6,D3HWH6,D4HWH6 part dwg</_abstract>
+							<doctype>Part Drawings</doctype>
+							<actionFlag>R</actionFlag>
+						</media0>
+						<media1>
+							<title>Divider Wall and Mounting Disc</title>
+							<language>US English</language>
+							<directory>InstallInstructions</directory>
+							<id>d2hwh6.m.98298050.0</id>
+							<url>www.panduit.com/heiler/InstallInstructions/N-WDDBCdiscanddivwallRW31C--REV0--ENG.pdf</url>
+							<_abstract>Divider Wall and Mounting Disc</_abstract>
+							<doctype>Installation Documents</doctype>
+							<actionFlag>R</actionFlag>
+						</media1>
+						<media2>
+							<title>Wiring Duct Selection Guide: WDSG02--SA-ENG</title>
+							<language>US English</language>
+							<directory>SelectionGuides</directory>
+							<id>d2hwh6.m.100811764.0</id>
+							<url>www.panduit.com/heiler/SelectionGuides/D-WDSG02--SA-ENG-Selection-Guide-W.PDF</url>
+							<_abstract>Wiring Duct Selection Guide: WDSG02--SA-ENG</_abstract>
+							<doctype>Selection Guides</doctype>
+							<actionFlag>R</actionFlag>
+						</media2>
+					</media>
+					<xref/>
+				</product>
+				<product commerceType="product">
+					<path>/etc/commerce/products/panduit/en/d/d4/d4h/d4hw/d4hwh6</path>
+					<sku>D4HWH6</sku>
+					<title>Solid Divider Wall-D4HWH6</title>
+					<description>Solid Duct Divider Wall, PVC, 4"H X 6'</description>
+					<marginRank>999</marginRank>
+					<revenueRank>999</revenueRank>
+					<creationDate>2017-02-23T00:00:00</creationDate>
+					<detailspage>
+						<path>/content/panduit/en/l1-page/l2-page/l3-page/1109/d4hwh6.html</path>
+						<l1>/content/panduit/en/l1-page</l1>
+						<l1-title>L1 Page</l1-title>
+						<l2>/content/panduit/en/l1-page/l2-page</l2>
+						<l2-title>L2 Page</l2-title>
+						<l3>/content/panduit/en/l1-page/l2-page/l3-page</l3>
+						<l3-title>L3 Page</l3-title>
+						<l4>/content/panduit/en/l1-page/l2-page/1109</l4>
+						<l4-title>Family Page</l4-title>
+					</detailspage>
+					<attributes/>
+					<distributors>
+						<distributor>
+							<link>https://www.anixter.com/en_us/manufacturers/p/panduit/quick-quote.html?quick_quote_comment=I%27m%20interested%20in%20getting%20a%20quote%20on%20Panduit%20Part%20Number%20D4HWH6</link>
+							<name>ANIXTER</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>http://www.digikey.com/product-search/en?keywords=D4HWH6</link>
+							<name>DIGIKEY</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://www.fastenal.com/products?term=D4HWH6&amp;searchMode=</link>
+							<name>FASTENAL</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>http://www.graybar.com/store/SearchDisplay?categoryId=&amp;storeId=11751&amp;catalogId=10551&amp;langId=-1&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=&amp;beginIndex=0&amp;pageSize=15&amp;searchType=1000&amp;orderBy=&amp;searchTerm=panduit</link>
+							<name>GRAYBAR</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://estore.heilind.com/search.asp?p=D4HWH6</link>
+							<name>HEILIND</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://www.rexelusa.com/freeTextSearch.action?freeText=D4HWH6</link>
+							<name>REXELUSA</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://www.sager.com/search/?Keywords=D4HWH6</link>
+							<name>SAGER</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>http://www.sonepar.com</link>
+							<name>SONEPAR</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+						<distributor>
+							<link>https://buy.wesco.com/search?searchterm=D4HWH6</link>
+							<name>WESCO</name>
+							<actionFlag>C</actionFlag>
+						</distributor>
+					</distributors>
+					<assets>
+						<asset0>
+							<fileReference>/content/dam/panduit/en/d/d4/d4h/d4hw/d4hwh6/assets/asset/heiler/ProductImages/Ddvrwsolidwh-o.jpg</fileReference>
+							<directory>ProductImages</directory>
+							<id>d4hwh6.i.98831802.0</id>
+							<url>www.panduit.com/heiler/ProductImages/Ddvrwsolidwh-o.jpg</url>
+							<category>Part Image</category>
+							<description/>
+							<keywords/>
+							<actionFlag>R</actionFlag>
+						</asset0>
+					</assets>
+					<media>
+						<media0>
+							<title>Solid Duct Divider Wall - D2HWH6,D3HWH6,D4HWH6 part dwg</title>
+							<language>US English</language>
+							<directory>PartDrawings</directory>
+							<id>d4hwh6.m.65286015.0</id>
+							<url>www.panduit.com/heiler/PartDrawings/C-WDDW-34301-05-R4--ENG.pdf</url>
+							<_abstract>Solid Duct Divider Wall - D2HWH6,D3HWH6,D4HWH6 part dwg</_abstract>
+							<doctype>Part Drawings</doctype>
+							<actionFlag>R</actionFlag>
+						</media0>
+						<media1>
+							<title>3D Customer Drawing file D4H6, D4HWH6</title>
+							<language>US English</language>
+							<directory>PartDrawings</directory>
+							<id>d4hwh6.m.101097095.0</id>
+							<url>www.panduit.com/heiler/PartDrawings/C-WDD4H6--3D--ENG.stp</url>
+							<_abstract>3D Customer Drawing file D4H6, D4HWH6</_abstract>
+							<doctype>Part Drawings</doctype>
+							<actionFlag>R</actionFlag>
+						</media1>
+						<media2>
+							<title>Divider Wall and Mounting Disc</title>
+							<language>US English</language>
+							<directory>InstallInstructions</directory>
+							<id>d4hwh6.m.98298050.0</id>
+							<url>www.panduit.com/heiler/InstallInstructions/N-WDDBCdiscanddivwallRW31C--REV0--ENG.pdf</url>
+							<_abstract>Divider Wall and Mounting Disc</_abstract>
+							<doctype>Installation Documents</doctype>
+							<actionFlag>R</actionFlag>
+						</media2>
+						<media3>
+							<title>Wiring Duct Selection Guide: WDSG02--SA-ENG</title>
+							<language>US English</language>
+							<directory>SelectionGuides</directory>
+							<id>d4hwh6.m.100811764.0</id>
+							<url>www.panduit.com/heiler/SelectionGuides/D-WDSG02--SA-ENG-Selection-Guide-W.PDF</url>
+							<_abstract>Wiring Duct Selection Guide: WDSG02--SA-ENG</_abstract>
+							<doctype>Selection Guides</doctype>
+							<actionFlag>R</actionFlag>
+						</media3>
+					</media>
+					<xref/>
+				</product>
+				<product commerceType="product">
+					<path>/etc/commerce/products/panduit/en/b/bc/bc2/bc2s/bc2ss10c0</path>
+					<sku>BC2S-S10-C0</sku>
+					<title>Cable Ties-BC2S-S10-C0</title>
+					<description>Clamp Tie, Metal Barb, 8.5"L (216mm), Standard, Weather Resistant, Black</description>
+					<marginRank>4403</marginRank>
+					<revenueRank>5468</revenueRank>
+					<searchable>true</searchable>
+					<status>MATURE</status>
+					<creationDate>2017-03-16T00:00:00</creationDate>
+					<detailspage>
+						<path>/content/panduit/en/l1-page/l2-page/l3-page/1109/bc2ss10c0.html</path>
+						<l1>/content/panduit/en/l1-page</l1>
+						<l1-title>L1 Page</l1-title>
+						<l2>/content/panduit/en/l1-page/l2-page</l2>
+						<l2-title>L2 Page</l2-title>
+						<l3>/content/panduit/en/l1-page/l2-page/l3-page</l3>
+						<l3-title>L3 Page</l3-title>
+						<l4>/content/panduit/en/l1-page/l2-page/1109</l4>
+						<l4-title>Family Page</l4-title>
+					</detailspage>
+					
+					<attributes>
+						<brand-name attributeName="Brand Name" attributeValue="Panduit"/>
+						<standards attributeName="Standards" attributeValue="UL Compliant 62275, UL Listed #E56854, UL Recognized #E56854"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Dome-Top Barb-Ty Clamp"/>
+						<color attributeName="Color" attributeValue="Black"/>
+						<product-segment attributeName="Product Segment" attributeValue="ELECTRICAL"/>
+						<item-type attributeName="Item Type" attributeValue="STANDARD ITEM"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Dome-Top Barb-Ty Clamp"/>
+						<product-category attributeName="Product Category" attributeValue="CABLE TIES"/>
+						<product-type attributeName="Product Type" attributeValue="Cable Ties"/>
+						<pricing-description attributeName="Pricing Description" attributeValue="Clamp Tie, Metal Barb, 8.5&quot;L (216mm), Standard, Weather Resistant, Black"/>
+						<short-description attributeName="Short Description" attributeValue="Clamp Tie, Metal Barb, 8.5&quot;L (216mm), Standard, Weather Resistant, Black"/>
+						<sell-pack-packaging-description attributeName="Sell Pack Packaging Description" attributeValue="BAG"/>
+						<ship-pack-packaging-description attributeName="Ship Pack Packaging Description" attributeValue="BAG"/>
+						<master-pack-packaging-description attributeName="Master Pack Packaging Description" attributeValue="CTN"/>
+						<country-of-origin-description attributeName="Country of Origin Description" attributeValue="Costa Rica"/>
+						<keywords attributeName="Keywords" attributeValue="Cable ties, cable tie"/>
+						<part-description attributeName="Part Description" attributeValue="Dome-Top® barb ty clamp tie, standard cross section, #10 (M5) screw, 8.5&quot; (216mm) length, weather resistant nylon 6.6, black, standard package."/>
+						<short-desc---no-special-characters attributeName="Short Desc - No Special Characters" attributeValue="Clamp Tie, Metal Barb, 8.5 Inches (216 mm) Length, No. 10 (M5) Screw, Standard Cross Section, Material Weather Resistant Nylon 6.6, Color Black, Style Locking, Minimum Loop Tensile Strength 50 Pounds, Width 0.185 Inch, Maximum Bundle Diameter 2.00 Inches, Minimum Bundle Diameter 0.06 Inch, Plenum Rating - No, Flammability Rating V-2"/>
+						<long-desc---no-special-characters attributeName="Long Desc - No Special Characters" attributeValue="Clamp Tie, Metal Barb, 8.5 Inches (216 mm) Length, No. 10 (M5) Screw, Standard Cross Section, Black. Weather Resistant for greater resistance to damage caused by ultraviolet light. Indoor or outdoor use. Used to secure a cable bundle to another surface such as a control panel, communication rack, wall or ceiling. Design allows for bundling before or after screwing clamp in place. Stainless steel locking barb provides consistent performance, reliability and infinite adjustability through entire bundle range. Curved tip is easy to pick up from flat surfaces and allows faster initial threading."/>
+						<short-description-40 attributeName="Short Description 40" attributeValue="ClTie,MBarb,8.5&quot;L,Std,WR,BL,PK100"/>
+						<unspsc-carton-description attributeName="UNSPSC Carton Description" attributeValue="CARTON"/>
+						<unspsc-package-description attributeName="UNSPSC Package Description" attributeValue="PACKAGE"/>
+						<suggested-index-terms attributeName="Suggested Index Terms" attributeValue="Cable ties, zip ties, tie-wraps"/>
+						<price-class-code-parent attributeName="Price Class Code Parent" attributeValue="01"/>
+						<product-group-assignment attributeName="Product Group Assignment" attributeValue="Cable Ties"/>
+					</attributes>
+					<distributors>
+						<distributor>
+							<link>https://www.anixter.com/en_us/manufacturers/p/panduit/quick-quote.html?quick_quote_comment=I%27m%20interested%20in%20getting%20a%20quote%20on%20Panduit%20Part%20Number%20BC2S-S10-C0</link>
+							<name>ANIXTER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.digikey.com/product-search/en?keywords=BC2S-S10-C0</link>
+							<name>DIGIKEY</name>
+						</distributor>
+						<distributor>
+							<link>https://www.fastenal.com/products?term=BC2S-S10-C0&amp;searchMode=</link>
+							<name>FASTENAL</name>
+						</distributor>
+						<distributor>
+							<link>http://www.graybar.com/store/SearchDisplay?categoryId=&amp;storeId=11751&amp;catalogId=10551&amp;langId=-1&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=&amp;beginIndex=0&amp;pageSize=15&amp;searchType=1000&amp;orderBy=&amp;searchTerm=panduit</link>
+							<name>GRAYBAR</name>
+						</distributor>
+						<distributor>
+							<link>https://estore.heilind.com/search.asp?p=BC2S-S10-C0</link>
+							<name>HEILIND</name>
+						</distributor>
+						<distributor>
+							<link>https://www.rexelusa.com/freeTextSearch.action?freeText=BC2S-S10-C0</link>
+							<name>REXELUSA</name>
+						</distributor>
+						<distributor>
+							<link>https://www.sager.com/search/?Keywords=BC2S-S10-C0</link>
+							<name>SAGER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.sonepar.com</link>
+							<name>SONEPAR</name>
+						</distributor>
+						<distributor>
+							<link>https://buy.wesco.com/search?searchterm=BC2S-S10-C0</link>
+							<name>WESCO</name>
+						</distributor>
+					</distributors>
+					<assets>
+						<asset0>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bc/bc2/bc2s/bc2ss10c0/images/CBCHEADBLK-o.jpg</fileReference>
+							<directory>ProductImages</directory>
+							<id>bc2s-s10-c0-i-6585-0</id>
+							<url>www.panduit.com/heiler/ProductImages/CBCHEADBLK-o.jpg</url>
+							<category>Part Image</category>
+							<description/>
+							<keywords/>
+							<actionFlag>C</actionFlag>
+						</asset0>
+					</assets>
+					<media>
+						<media0>
+							<title>DOME-TOP Barb Ty Clamp Tie, BT-0070 (Pg 2) (R9)</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bc/bc2/bc2s/bc2ss10c0/media/BT_0070_SHT2.pdf</fileReference>
+							<directory>PartDrawings</directory>
+							<id>bc2s-s10-c0-m-441-0</id>
+							<url>www.panduit.com/heiler/PartDrawings/BT_0070_SHT2.pdf</url>
+							<_abstract>DOME-TOP Barb Ty Clamp Tie, BT-0070 (Pg 2) (R9)</_abstract>
+							<doctype>Part Drawings</doctype>
+							<actionFlag>C</actionFlag>
+						</media0>
+						<media1>
+							<title>BC1M-S4-M0 Product Page</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bc/bc2/bc2s/bc2ss10c0/media/BC1M-S4-M0 Product Page.pdf</fileReference>
+							<directory>CatalogCutSheets</directory>
+							<id>bc2s-s10-c0-m-6535-0</id>
+							<url>www.panduit.com/heiler/CatalogCutSheets/BC1M-S4-M0 Product Page.pdf</url>
+							<_abstract>BC1M-S4-M0 Product Page</_abstract>
+							<doctype>Catalog Cut Sheets</doctype>
+							<actionFlag>C</actionFlag>
+						</media1>
+						<media2>
+							<title>Cable Tie Selection Guide</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bc/bc2/bc2s/bc2ss10c0/media/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</fileReference>
+							<directory>SelectionGuides</directory>
+							<id>bc2s-s10-c0-m-101322527-0</id>
+							<url>www.panduit.com/heiler/SelectionGuides/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</url>
+							<_abstract>Cable Tie Selection Guide</_abstract>
+							<doctype>Selection Guides</doctype>
+							<actionFlag>C</actionFlag>
+						</media2>
+						<media3>
+							<title>DOME-TOP Barb Ty Cable Ties SA-CTCB55</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bc/bc2/bc2s/bc2ss10c0/media/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</fileReference>
+							<directory>ProductBulletins</directory>
+							<id>bc2s-s10-c0-m-101165246-0</id>
+							<url>www.panduit.com/heiler/ProductBulletins/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</url>
+							<_abstract>DOME-TOP Barb Ty Cable Ties SA-CTCB55</_abstract>
+							<doctype>Product Bulletins</doctype>
+							<actionFlag>C</actionFlag>
+						</media3>
+					</media>
+					<xref>
+						<xref0>
+							<compName>LAWSON</compName>
+							<compPart>85491</compPart>
+							<actionFlag>R</actionFlag>
+						</xref0>
+					</xref>
+				</product>
+			</products>
+		</product-family>
+		
+		<product-family>
+			<path>/etc/commerce/products/panduit/en/1324</path>
+			<familycode>1324</familycode>
+			<title>Tape Tie</title>
+			<description>Tape Tie, Metal Barb, 14.3"L (363mm), Intermediate, Weather Resistant, Black</description>
+			<creationDate>2017-03-16T00:00:00</creationDate>
+			<familydetailspage>
+					<path>/content/panduit/en/l1-sf-page/l2-sf-page/l3-sf-page/1324.html</path>
+				    <l1>/content/panduit/en/l1-sf-page</l1>
+				    <l1-title>L1 SF Page</l1-title>
+					<l2>/content/panduit/en/l1-sf-page/l2-sf-page</l2>
+				    <l2-title>L2 SF Page</l2-title>
+					<l3>/content/panduit/en/l1-sf-page/l2-sf-page/l3-sf-page</l3>
+				    <l3-title>L3 SF Page</l3-title>
+			</familydetailspage>
+			<attributes>
+				<color attributeName="Color" attributeValue="Black"/>
+				<product-segment attributeName="Product Segment" attributeValue="IEI"/>
+				<item-type attributeName="Item Type" attributeValue="STANDARD ITEM"/>
+				<pricing-description attributeName="Pricing Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+				<short-description attributeName="Short Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+				<keywords attributeName="Keywords" attributeValue="Cable ties, cable tie"/>
+				<part-description attributeName="Part Description" attributeValue="Dome-Top barb ty cable tie, intermediate cross section, 14.3&quot; (363mm) length, weather resistant nylon 6.6, black, standard package."/>
+				<short-desc---no-special-characters attributeName="Short Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate Cross Section, Material Weather Resistant Nylon 6.6, Color Black, Style Locking, Minimum Loop Tensile Strength 40 Pounds, Width 0.141 Inch, Maximum Bundle Diameter 4.00 Inches, Minimum Bundle Diameter 0.03 Inch, Plenum Rating - No, Flammability Rating V-2"/>
+				<long-desc---no-special-characters attributeName="Long Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate, Black. Weather Resistant for greater resistance to damage caused by ultraviolet light. Indoor or outdoor use. Dome-top head features unique patented design with round, smooth edges. Stainless steel locking barb provides consistent performance, reliability and infinite adjustability through entire bundle range. High strength and low thread force. Curved tip is easy to pick up from flat surfaces and allows faster initial threading."/>
+				<short-description-40 attributeName="Short Description 40" attributeValue="CTie,MBarb,14.3&quot;L,Intm,WR,BL,PK100"/>
+				<product-type attributeName="Product Type" attributeValue="Cable Ties"/>
+				<product-group-assignment attributeName="Product Group Assignment" attributeValue="Cable Ties"/>
+				<marketing_regions>
+					<name>JPN,LA,USA,AP,AUS,AUS,CAN,EMEA</name>
+				</marketing_regions>
+			</attributes>
+			<assets>
+				<asset>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/images/CBTHEADWR-o.jpg</fileReference>
+					<directory>ProductImages</directory>
+					<id>bt4i-c0-i-98687564-0</id>
+					<url>www.panduit.com/heiler/ProductImages/CBTHEADWR-o.jpg</url>
+					<category>Part Image</category>
+					<description/>
+					<keywords/>
+					<actionFlag>C</actionFlag>
+				</asset>
+			</assets>
+			<medias>
+				<media>
+					<title>BT-0037-Sheet2</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/C-CTBT1-5I-BT-0037-2--ENG.pdf</fileReference>
+					<directory>PartDrawings</directory>
+					<id>bt4i-c0-m-98220944-0</id>
+					<url>www.panduit.com/heiler/PartDrawings/C-CTBT1-5I-BT-0037-2--ENG.pdf</url>
+					<_abstract>BT-0037-Sheet2</_abstract>
+					<doctype>Part Drawings</doctype>
+					<actionFlag>C</actionFlag>
+					<family-code>{family-code}</family-code>
+				</media>
+				<media>
+					<title>DOME-TOP Barb Ty Cable Ties SA-CTCB55</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</fileReference>
+					<directory>ProductBulletins</directory>
+					<id>bt4i-c0-m-101165246-0</id>
+					<url>www.panduit.com/heiler/ProductBulletins/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</url>
+					<_abstract>DOME-TOP Barb Ty Cable Ties SA-CTCB55</_abstract>
+					<doctype>Product Bulletins</doctype>
+					<actionFlag>C</actionFlag>
+				</media>
+				<media>
+					<title>Cable Tie Selection Guide</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</fileReference>
+					<directory>SelectionGuides</directory>
+					<id>bt4i-c0-m-101322527-0</id>
+					<url>www.panduit.com/heiler/SelectionGuides/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</url>
+					<_abstract>Cable Tie Selection Guide</_abstract>
+					<doctype>Selection Guides</doctype>
+					<actionFlag>C</actionFlag>
+				</media>
+				<media>
+					<title>BT1M-C0 Product Page</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/BT1M-CO Product Page.pdf</fileReference>
+					<directory>CatalogCutSheets</directory>
+					<id>bt4i-c0-m-7800-0</id>
+					<url>www.panduit.com/heiler/CatalogCutSheets/BT1M-CO Product Page.pdf</url>
+					<_abstract>BT1M-C0 Product Page</_abstract>
+					<doctype>Catalog Cut Sheets</doctype>
+					<actionFlag>C</actionFlag>
+				</media>
+			</medias>
+			<products>
+				<product commerceType="product">
+					<path>/etc/commerce/products/panduit/en/1324/mnc6b</path>
+					<sku>MNC-6B</sku>
+					<title>Cable Ties-BT4I-C0</title>
+					<description>Cable Tie, Metal Barb, 14.3"L (363mm), Intermediate, Weather Resistant, Black</description>
+					<marginRank>2296</marginRank>
+					<revenueRank>3527</revenueRank>
+					<searchable>true</searchable>
+					<status>MATURE</status>
+					<creationDate>2017-03-16T00:00:00</creationDate>
+					<detailspage>
+						<path>/content/panduit/en/l1-sf-page/l2-sf-page/l3-sf-page/1324/mnc6b.html</path>
+						<l1>/content/panduit/en/l1-sf-page</l1>
+						<l1-title>L1 SF Page</l1-title>
+						<l2>/content/panduit/en/l1-sf-page/l2-sf-page</l2>
+						<l2-title>L2 SF Page</l2-title>
+						<l3>/content/panduit/en/l1-sf-page/l2-sf-page/l3-sf-page</l3>
+						<l3-title>L3 SF Page</l3-title>
+						<l4>/content/panduit/en/l1-page/l2-page/1324</l4>
+						<l4-title>Family SF Page</l4-title>
+					</detailspage>
+					<attributes>
+						<brand-name attributeName="Brand Name" attributeValue="Panduit"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Dome-Top"/>
+						<color attributeName="Color" attributeValue="Black"/>
+						<product-segment attributeName="Product Segment" attributeValue="IEI"/>
+						<item-type attributeName="Item Type" attributeValue="STANDARD ITEM"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Dome-Top"/>
+						<product-category attributeName="Product Category" attributeValue="CABLE TIES"/>
+						<pricing-description attributeName="Pricing Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+						<short-description attributeName="Short Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+						<sell-pack-packaging-description attributeName="Sell Pack Packaging Description" attributeValue="BAG"/>
+						<ship-pack-packaging-description attributeName="Ship Pack Packaging Description" attributeValue="BAG"/>
+						<master-pack-packaging-description attributeName="Master Pack Packaging Description" attributeValue="CTN"/>
+						<country-of-origin-description attributeName="Country of Origin Description" attributeValue="Costa Rica"/>
+						<keywords attributeName="Keywords" attributeValue="Cable ties, cable tie"/>
+						<part-description attributeName="Part Description" attributeValue="Dome-Top barb ty cable tie, intermediate cross section, 14.3&quot; (363mm) length, weather resistant nylon 6.6, black, standard package."/>
+						<short-desc---no-special-characters attributeName="Short Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate Cross Section, Material Weather Resistant Nylon 6.6, Color Black, Style Locking, Minimum Loop Tensile Strength 40 Pounds, Width 0.141 Inch, Maximum Bundle Diameter 4.00 Inches, Minimum Bundle Diameter 0.03 Inch, Plenum Rating - No, Flammability Rating V-2"/>
+						<long-desc---no-special-characters attributeName="Long Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate, Black. Weather Resistant for greater resistance to damage caused by ultraviolet light. Indoor or outdoor use. Dome-top head features unique patented design with round, smooth edges. Stainless steel locking barb provides consistent performance, reliability and infinite adjustability through entire bundle range. High strength and low thread force. Curved tip is easy to pick up from flat surfaces and allows faster initial threading."/>
+						<short-description-40 attributeName="Short Description 40" attributeValue="CTie,MBarb,14.3&quot;L,Intm,WR,BL,PK100"/>
+						<unspsc-carton-description attributeName="UNSPSC Carton Description" attributeValue="CARTON"/>
+						<unspsc-package-description attributeName="UNSPSC Package Description" attributeValue="PACKAGE"/>
+						<price-class-code-parent attributeName="Price Class Code Parent" attributeValue="01"/>
+						<product-owner attributeName="Product Owner" attributeValue="ELECTRICAL"/>
+						<product-type attributeName="Product Type" attributeValue="Cable Ties"/>
+						<product-group-assignment attributeName="Product Group Assignment" attributeValue="Cable Ties"/>
+						<marketing_regions>
+							<name>JPN,LA,USA,AP,AUS,AUS,CAN,EMEA</name>
+						</marketing_regions>
+					</attributes>
+					<distributors>
+						<distributor>
+							<link>https://www.anixter.com/en_us/manufacturers/p/panduit/quick-quote.html?quick_quote_comment=I%27m%20interested%20in%20getting%20a%20quote%20on%20Panduit%20Part%20Number%20BT4I-C0</link>
+							<name>ANIXTER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.digikey.com/product-search/en?keywords=BT4I-C0</link>
+							<name>DIGIKEY</name>
+						</distributor>
+						<distributor>
+							<link>https://www.fastenal.com/products?term=BT4I-C0&amp;searchMode=</link>
+							<name>FASTENAL</name>
+						</distributor>
+						<distributor>
+							<link>http://www.graybar.com/store/SearchDisplay?categoryId=&amp;storeId=11751&amp;catalogId=10551&amp;langId=-1&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=&amp;beginIndex=0&amp;pageSize=15&amp;searchType=1000&amp;orderBy=&amp;searchTerm=panduit</link>
+							<name>GRAYBAR</name>
+						</distributor>
+						<distributor>
+							<link>https://estore.heilind.com/search.asp?p=BT4I-C0</link>
+							<name>HEILIND</name>
+						</distributor>
+						<distributor>
+							<link>https://www.rexelusa.com/freeTextSearch.action?freeText=BT4I-C0</link>
+							<name>REXELUSA</name>
+						</distributor>
+						<distributor>
+							<link>https://www.sager.com/search/?Keywords=BT4I-C0</link>
+							<name>SAGER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.sonepar.com</link>
+							<name>SONEPAR</name>
+						</distributor>
+						<distributor>
+							<link>https://buy.wesco.com/search?searchterm=BT4I-C0</link>
+							<name>WESCO</name>
+						</distributor>
+					</distributors>
+					<assets>
+						<asset0>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/images/CBTHEADWR-o.jpg</fileReference>
+							<directory>ProductImages</directory>
+							<id>bt4i-c0-i-98687564-0</id>
+							<url>www.panduit.com/heiler/ProductImages/CBTHEADWR-o.jpg</url>
+							<category>Part Image</category>
+							<description/>
+							<keywords/>
+							<actionFlag>C</actionFlag>
+						</asset0>
+					</assets>
+					<medias>
+						<media>
+							<title>BT-0037-Sheet2</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/C-CTBT1-5I-BT-0037-2--ENG.pdf</fileReference>
+							<directory>PartDrawings</directory>
+							<id>bt4i-c0-m-98220944-0</id>
+							<url>www.panduit.com/heiler/PartDrawings/C-CTBT1-5I-BT-0037-2--ENG.pdf</url>
+							<_abstract>BT-0037-Sheet2</_abstract>
+							<doctype>Part Drawings</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+						</media>
+						<media1>
+							<title>DOME-TOP Barb Ty Cable Ties SA-CTCB55</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</fileReference>
+							<directory>ProductBulletins</directory>
+							<id>bt4i-c0-m-101165246-0</id>
+							<url>www.panduit.com/heiler/ProductBulletins/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</url>
+							<_abstract>DOME-TOP Barb Ty Cable Ties SA-CTCB55</_abstract>
+							<doctype>Product Bulletins</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+						</media1>
+						<media2>
+							<title>Cable Tie Selection Guide</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</fileReference>
+							<directory>SelectionGuides</directory>
+							<id>bt4i-c0-m-101322527-0</id>
+							<url>www.panduit.com/heiler/SelectionGuides/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</url>
+							<_abstract>Cable Tie Selection Guide</_abstract>
+							<doctype>Selection Guides</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+						</media2>
+						<media3>
+							<title>BT1M-C0 Product Page</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/BT1M-CO Product Page.pdf</fileReference>
+							<directory>CatalogCutSheets</directory>
+							<id>bt4i-c0-m-7800-0</id>
+							<url>www.panduit.com/heiler/CatalogCutSheets/BT1M-CO Product Page.pdf</url>
+							<_abstract>BT1M-C0 Product Page</_abstract>
+							<doctype>Catalog Cut Sheets</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+							
+						</media3>
+						
+					</medias>
+					<xref>
+						<xref0>
+							<compName>WAYTEK</compName>
+							<compPart>21795</compPart>
+							<actionFlag>R</actionFlag>
+						</xref0>
+					</xref>
+				</product>
+		
+			</products>
+		</product-family>
+		
+		<product-family>
+			<path>/etc/commerce/products/panduit/en/1324</path>
+			<familycode>1324</familycode>
+			<title>Tape Tie</title>
+			<description>Tape Tie, Metal Barb, 14.3"L (363mm), Intermediate, Weather Resistant, Black</description>
+			<creationDate>2017-03-16T00:00:00</creationDate>
+			<familydetailspage>
+					<path>/content/panduit/en/l1-nyc-page/l2-nyc-page/l3-nyc-page/1324.html</path>
+				    <l1>/content/panduit/en/l1-nyc-page</l1>
+				    <l1-title>L1 NYC Page</l1-title>
+					<l2>/content/panduit/en/l1-nyc-page/l2-nyc-page</l2>
+				    <l2-title>L2 NYC Page</l2-title>
+					<l3>/content/panduit/en/l1-nyc-page/l2-nyc-page/l3-nyc-page</l3>
+				    <l3-title>L3 NYC Page</l3-title>
+			</familydetailspage>
+			<attributes>
+				<color attributeName="Color" attributeValue="Black"/>
+				<product-segment attributeName="Product Segment" attributeValue="IEI"/>
+				<item-type attributeName="Item Type" attributeValue="STANDARD ITEM"/>
+				<pricing-description attributeName="Pricing Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+				<short-description attributeName="Short Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+				<keywords attributeName="Keywords" attributeValue="Cable ties, cable tie"/>
+				<part-description attributeName="Part Description" attributeValue="Dome-Top barb ty cable tie, intermediate cross section, 14.3&quot; (363mm) length, weather resistant nylon 6.6, black, standard package."/>
+				<short-desc---no-special-characters attributeName="Short Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate Cross Section, Material Weather Resistant Nylon 6.6, Color Black, Style Locking, Minimum Loop Tensile Strength 40 Pounds, Width 0.141 Inch, Maximum Bundle Diameter 4.00 Inches, Minimum Bundle Diameter 0.03 Inch, Plenum Rating - No, Flammability Rating V-2"/>
+				<long-desc---no-special-characters attributeName="Long Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate, Black. Weather Resistant for greater resistance to damage caused by ultraviolet light. Indoor or outdoor use. Dome-top head features unique patented design with round, smooth edges. Stainless steel locking barb provides consistent performance, reliability and infinite adjustability through entire bundle range. High strength and low thread force. Curved tip is easy to pick up from flat surfaces and allows faster initial threading."/>
+				<short-description-40 attributeName="Short Description 40" attributeValue="CTie,MBarb,14.3&quot;L,Intm,WR,BL,PK100"/>
+				<product-type attributeName="Product Type" attributeValue="Cable Ties"/>
+				<product-group-assignment attributeName="Product Group Assignment" attributeValue="Cable Ties"/>
+				<marketing_regions>
+					<name>JPN,LA,USA,AP,AUS,AUS,CAN,EMEA</name>
+				</marketing_regions>
+			</attributes>
+			<assets>
+				<asset>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/images/CBTHEADWR-o.jpg</fileReference>
+					<directory>ProductImages</directory>
+					<id>bt4i-c0-i-98687564-0</id>
+					<url>www.panduit.com/heiler/ProductImages/CBTHEADWR-o.jpg</url>
+					<category>Part Image</category>
+					<description/>
+					<keywords/>
+					<actionFlag>C</actionFlag>
+				</asset>
+			</assets>
+			<medias>
+				<media>
+					<title>BT-0037-Sheet2</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/C-CTBT1-5I-BT-0037-2--ENG.pdf</fileReference>
+					<directory>PartDrawings</directory>
+					<id>bt4i-c0-m-98220944-0</id>
+					<url>www.panduit.com/heiler/PartDrawings/C-CTBT1-5I-BT-0037-2--ENG.pdf</url>
+					<_abstract>BT-0037-Sheet2</_abstract>
+					<doctype>Part Drawings</doctype>
+					<actionFlag>C</actionFlag>
+					<family-code>{family-code}</family-code>
+				</media>
+				<media>
+					<title>DOME-TOP Barb Ty Cable Ties SA-CTCB55</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</fileReference>
+					<directory>ProductBulletins</directory>
+					<id>bt4i-c0-m-101165246-0</id>
+					<url>www.panduit.com/heiler/ProductBulletins/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</url>
+					<_abstract>DOME-TOP Barb Ty Cable Ties SA-CTCB55</_abstract>
+					<doctype>Product Bulletins</doctype>
+					<actionFlag>C</actionFlag>
+				</media>
+				<media>
+					<title>Cable Tie Selection Guide</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</fileReference>
+					<directory>SelectionGuides</directory>
+					<id>bt4i-c0-m-101322527-0</id>
+					<url>www.panduit.com/heiler/SelectionGuides/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</url>
+					<_abstract>Cable Tie Selection Guide</_abstract>
+					<doctype>Selection Guides</doctype>
+					<actionFlag>C</actionFlag>
+				</media>
+				<media>
+					<title>BT1M-C0 Product Page</title>
+					<language>US English</language>
+					<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/BT1M-CO Product Page.pdf</fileReference>
+					<directory>CatalogCutSheets</directory>
+					<id>bt4i-c0-m-7800-0</id>
+					<url>www.panduit.com/heiler/CatalogCutSheets/BT1M-CO Product Page.pdf</url>
+					<_abstract>BT1M-C0 Product Page</_abstract>
+					<doctype>Catalog Cut Sheets</doctype>
+					<actionFlag>C</actionFlag>
+				</media>
+			</medias>
+			<products>
+				<product commerceType="product">
+					<path>/etc/commerce/products/panduit/en/1324/mnc6b</path>
+					<sku>MNC-6B</sku>
+					<title>Cable Ties-BT4I-C0</title>
+					<description>Cable Tie, Metal Barb, 14.3"L (363mm), Intermediate, Weather Resistant, Black</description>
+					<marginRank>2296</marginRank>
+					<revenueRank>3527</revenueRank>
+					<searchable>true</searchable>
+					<status>MATURE</status>
+					<creationDate>2017-03-16T00:00:00</creationDate>
+					<detailspage>
+						<path>/content/panduit/en/l1-nyc-page/l2-ny-page/l3-nyc-page/1324/mnc6b.html</path>
+						<l1>/content/panduit/en/l1-nyc-page</l1>
+						<l1-title>L1 NYC Page</l1-title>
+						<l2>/content/panduit/en/l1-nyc-page/l2-nyc-page</l2>
+						<l2-title>L2 NYC Page</l2-title>
+						<l3>/content/panduit/en/l1-nyc-page/l2-nyc-page/l3-nyc-page</l3>
+						<l3-title>L3 NYC Page</l3-title>
+						<l4>/content/panduit/en/l1-nyc-page/l2-nyc-page/l3-nyc-page/1324</l4>
+						<l4-title>Family NYC Page</l4-title>
+					</detailspage>
+					<attributes>
+						<brand-name attributeName="Brand Name" attributeValue="Panduit"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Dome-Top"/>
+						<color attributeName="Color" attributeValue="Black"/>
+						<product-segment attributeName="Product Segment" attributeValue="IEI"/>
+						<item-type attributeName="Item Type" attributeValue="STANDARD ITEM"/>
+						<sub-brand attributeName="Sub Brand" attributeValue="Dome-Top"/>
+						<product-category attributeName="Product Category" attributeValue="CABLE TIES"/>
+						<pricing-description attributeName="Pricing Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+						<short-description attributeName="Short Description" attributeValue="Cable Tie, Metal Barb, 14.3&quot;L (363mm), Intermediate, Weather Resistant, Black"/>
+						<sell-pack-packaging-description attributeName="Sell Pack Packaging Description" attributeValue="BAG"/>
+						<ship-pack-packaging-description attributeName="Ship Pack Packaging Description" attributeValue="BAG"/>
+						<master-pack-packaging-description attributeName="Master Pack Packaging Description" attributeValue="CTN"/>
+						<country-of-origin-description attributeName="Country of Origin Description" attributeValue="Costa Rica"/>
+						<keywords attributeName="Keywords" attributeValue="Cable ties, cable tie"/>
+						<part-description attributeName="Part Description" attributeValue="Dome-Top barb ty cable tie, intermediate cross section, 14.3&quot; (363mm) length, weather resistant nylon 6.6, black, standard package."/>
+						<short-desc---no-special-characters attributeName="Short Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate Cross Section, Material Weather Resistant Nylon 6.6, Color Black, Style Locking, Minimum Loop Tensile Strength 40 Pounds, Width 0.141 Inch, Maximum Bundle Diameter 4.00 Inches, Minimum Bundle Diameter 0.03 Inch, Plenum Rating - No, Flammability Rating V-2"/>
+						<long-desc---no-special-characters attributeName="Long Desc - No Special Characters" attributeValue="Cable Tie, Metal Barb, 14.3 Inches (363 mm) Length, Intermediate, Black. Weather Resistant for greater resistance to damage caused by ultraviolet light. Indoor or outdoor use. Dome-top head features unique patented design with round, smooth edges. Stainless steel locking barb provides consistent performance, reliability and infinite adjustability through entire bundle range. High strength and low thread force. Curved tip is easy to pick up from flat surfaces and allows faster initial threading."/>
+						<short-description-40 attributeName="Short Description 40" attributeValue="CTie,MBarb,14.3&quot;L,Intm,WR,BL,PK100"/>
+						<unspsc-carton-description attributeName="UNSPSC Carton Description" attributeValue="CARTON"/>
+						<unspsc-package-description attributeName="UNSPSC Package Description" attributeValue="PACKAGE"/>
+						<price-class-code-parent attributeName="Price Class Code Parent" attributeValue="01"/>
+						<product-owner attributeName="Product Owner" attributeValue="ELECTRICAL"/>
+						<product-type attributeName="Product Type" attributeValue="Cable Ties"/>
+						<product-group-assignment attributeName="Product Group Assignment" attributeValue="Cable Ties"/>
+						<marketing_regions>
+							<name>JPN,LA,USA,AP,AUS,AUS,CAN,EMEA</name>
+						</marketing_regions>
+					</attributes>
+					<distributors>
+						<distributor>
+							<link>https://www.anixter.com/en_us/manufacturers/p/panduit/quick-quote.html?quick_quote_comment=I%27m%20interested%20in%20getting%20a%20quote%20on%20Panduit%20Part%20Number%20BT4I-C0</link>
+							<name>ANIXTER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.digikey.com/product-search/en?keywords=BT4I-C0</link>
+							<name>DIGIKEY</name>
+						</distributor>
+						<distributor>
+							<link>https://www.fastenal.com/products?term=BT4I-C0&amp;searchMode=</link>
+							<name>FASTENAL</name>
+						</distributor>
+						<distributor>
+							<link>http://www.graybar.com/store/SearchDisplay?categoryId=&amp;storeId=11751&amp;catalogId=10551&amp;langId=-1&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=&amp;beginIndex=0&amp;pageSize=15&amp;searchType=1000&amp;orderBy=&amp;searchTerm=panduit</link>
+							<name>GRAYBAR</name>
+						</distributor>
+						<distributor>
+							<link>https://estore.heilind.com/search.asp?p=BT4I-C0</link>
+							<name>HEILIND</name>
+						</distributor>
+						<distributor>
+							<link>https://www.rexelusa.com/freeTextSearch.action?freeText=BT4I-C0</link>
+							<name>REXELUSA</name>
+						</distributor>
+						<distributor>
+							<link>https://www.sager.com/search/?Keywords=BT4I-C0</link>
+							<name>SAGER</name>
+						</distributor>
+						<distributor>
+							<link>http://www.sonepar.com</link>
+							<name>SONEPAR</name>
+						</distributor>
+						<distributor>
+							<link>https://buy.wesco.com/search?searchterm=BT4I-C0</link>
+							<name>WESCO</name>
+						</distributor>
+					</distributors>
+					<assets>
+						<asset0>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/images/CBTHEADWR-o.jpg</fileReference>
+							<directory>ProductImages</directory>
+							<id>bt4i-c0-i-98687564-0</id>
+							<url>www.panduit.com/heiler/ProductImages/CBTHEADWR-o.jpg</url>
+							<category>Part Image</category>
+							<description/>
+							<keywords/>
+							<actionFlag>C</actionFlag>
+						</asset0>
+					</assets>
+					<medias>
+						<media>
+							<title>BT-0037-Sheet2</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/C-CTBT1-5I-BT-0037-2--ENG.pdf</fileReference>
+							<directory>PartDrawings</directory>
+							<id>bt4i-c0-m-98220944-0</id>
+							<url>www.panduit.com/heiler/PartDrawings/C-CTBT1-5I-BT-0037-2--ENG.pdf</url>
+							<_abstract>BT-0037-Sheet2</_abstract>
+							<doctype>Part Drawings</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+						</media>
+						<media1>
+							<title>DOME-TOP Barb Ty Cable Ties SA-CTCB55</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</fileReference>
+							<directory>ProductBulletins</directory>
+							<id>bt4i-c0-m-101165246-0</id>
+							<url>www.panduit.com/heiler/ProductBulletins/D-CTCB55--WW-ENG-DOMETOPBarbTyCTBull-W.pdf</url>
+							<_abstract>DOME-TOP Barb Ty Cable Ties SA-CTCB55</_abstract>
+							<doctype>Product Bulletins</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+						</media1>
+						<media2>
+							<title>Cable Tie Selection Guide</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</fileReference>
+							<directory>SelectionGuides</directory>
+							<id>bt4i-c0-m-101322527-0</id>
+							<url>www.panduit.com/heiler/SelectionGuides/D-CTSG04--SA-ENG-CableTiesProduct-W.pdf</url>
+							<_abstract>Cable Tie Selection Guide</_abstract>
+							<doctype>Selection Guides</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+						</media2>
+						<media3>
+							<title>BT1M-C0 Product Page</title>
+							<language>US English</language>
+							<fileReference>/content/dam/panduit/en/products/assets/b/bt/bt4/bt4i/bt4ic0/media/BT1M-CO Product Page.pdf</fileReference>
+							<directory>CatalogCutSheets</directory>
+							<id>bt4i-c0-m-7800-0</id>
+							<url>www.panduit.com/heiler/CatalogCutSheets/BT1M-CO Product Page.pdf</url>
+							<_abstract>BT1M-C0 Product Page</_abstract>
+							<doctype>Catalog Cut Sheets</doctype>
+							<actionFlag>C</actionFlag>
+							<sku>BT4I-C0</sku>
+							
+						</media3>
+						
+					</medias>
+					<xref>
+						<xref0>
+							<compName>WAYTEK</compName>
+							<compPart>21795</compPart>
+							<actionFlag>R</actionFlag>
+						</xref0>
+					</xref>
+				</product>
+		
+			</products>
+		</product-family>
+		
+		
+	</product-families>
+</productfeed>
