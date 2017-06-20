@@ -3,6 +3,7 @@
   <record>
     <category>Clip</category>
     <title>Clip Title 1</title>
+      <url>http://localhost/clip1.html</url>
     <course-name>age-progression-in-photoshop</course-name>
     <author>
       <id>kurt-jones</id>
@@ -18,6 +19,7 @@
   <record>
     <category>Clip</category>
     <title>Clip Title 2</title>
+      <url>http://localhost/clip2.html</url>
     <course-name>age-progression-in-photoshop</course-name>
     <author>
       <id>kurt-jones</id>
@@ -33,6 +35,7 @@
   <record>
     <category>Clip</category>
     <title>Clip Title 3</title>
+      <url>http://localhost/clip3.html</url>
     <course-name>age-progression-in-photoshop</course-name>
     <author>
       <id>john-doe</id>
@@ -48,6 +51,7 @@
   <record>
     <category>Clip</category>
     <title>Clip Title 4</title>
+      <url>http://localhost/clip4.html</url>
     <course-name>age-progression-in-photoshop</course-name>
     <author>
       <id>john-doe</id>
